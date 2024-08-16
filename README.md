@@ -20,7 +20,9 @@
     <img src="https://img.shields.io/badge/Ajax-005571?style=for-the-badge&logo=Ajax&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/MyBatis-E6282D?style=for-the-badge&logo=MyBatis&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/REST%20API-0096D6?style=for-the-badge&logo=swagger&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">&nbsp;
@@ -44,12 +46,17 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
     <img src="https://img.shields.io/badge/MyBatis-E6282D?style=for-the-badge&logo=MyBatis&logoColor=white">
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/REST%20API-0096D6?style=for-the-badge&logo=swagger&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </div>
-
 <br><br>
+
+### 💪 내가 공부한 Skills 
+
+### 💪 내가 지금 배우고 있는 
+
