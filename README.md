@@ -1,10 +1,10 @@
 ## Hi there 👋
+<img src="https://github.com/user-attachments/assets/c1f1cfa9-eecf-47b4-9cbb-38a97874609c">
 
 <!--
 **JJO28/JJO28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Uploading KakaoTalk_20240816_112739068.png…]()
 Here are some ideas to get you started:
-<img src="https://github.com/user-attachments/assets/c1f1cfa9-eecf-47b4-9cbb-38a97874609c">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
