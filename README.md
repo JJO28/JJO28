@@ -7,7 +7,6 @@
   
 ### 🍕위치기반 식당 예약 사이트 플랫폼 '테이블찜콩'
 ### https://github.com/JJO28/Table_zzimkong_1
-<br>
 
 <div style="margin-left: 40px; text-align: left;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp;
@@ -29,7 +28,7 @@
 </div>
 <br><br>
 
-### 🍕체험 클래스 플랫폼 '공생(空生)'
+### 🏠체험 클래스 플랫폼 '공생(空生)'
 ### https://github.com/JJO28/Gongsaeng1
 
 <div style="margin-left: 40px; text-align: left;">
