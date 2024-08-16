@@ -32,7 +32,7 @@
 
 ### 🍕체험 클래스 플랫폼 '공생(空生)'
 
-https://github.com/JJO28/Gongsaeng1
+- https://github.com/JJO28/Gongsaeng1
 <div style="margin-left: 40px; text-align: left;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
